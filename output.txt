@@ -1,0 +1,5 @@
+The numbers you enter are: 
+30 20 15 17 22 26 29 33 35 86 40 41 49 23 11 9 6 55 16 77 
+
+Even sum: 246
+Odd sum: 394
